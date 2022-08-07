@@ -1,0 +1,3 @@
+ng new gatito --strict
+npm i bootstrap font-awesome
+npm i jwt-decode
